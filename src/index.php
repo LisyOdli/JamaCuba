@@ -1,7 +1,5 @@
 <?php
 
-echo 'Hola Mundo';
+$usuario= 'Israel Parra';
 
-echo 'Clonando Git y GitHub';
-
-echo 'Esto no esta bien, no se modifican archivos desde el repositorio';
+echo $usuario;
